@@ -1,16 +1,22 @@
-# IFJ - Formální jazyky a překladače
-3. semestr FIT VUT
+# FreeBasic to Assembler Compiler (IFJ project)
+Bachelor study at FIT VUT Brno  
+3rd semester - winter 2017  
+Subject: **Formal Languages and Compilers (IFJ)**  
+Task: *[task.pdf](./docs/task.pdf)* (in Czech)  
+Documentation: *[dokumentace.pdf](./docs/dokumentace.pdf)* (in Czech)  
 
-### Implementace překladace imperativního jazyka IFJ17 
-* IFJ17 (podmnožina FreeBasicu) do IFJcode17 (Assembler)
-* Testovací rozhraní https://github.com/thejoeejoee/VUT-FIT-IFJ-2017-toolkit
-* Dokumentace v docs/ a na:
-  * goo.gl/UzDY2V - Scanner, texty k prezentaci
-  * goo.gl/14wYfs - Precedenční tabulka
+## Authors
+* Jiří Furda *(xfurda00) - Operator-precedence parser*
+* Peter Havan *(xhavan00) - Project managment, *
+* Matej Stano *(xstano04) - Syntax analysis, symbol table*
+* Jurica Jiří *(xjuric29) - Lexical analysis, testing script, documentation*
 
+## Score
+* Overall: **23/25**
+* Compiler: **15/15**
+* Bonus points for extenstions **0/5**
+* Documentation **4/5**
+* Defense: **4/5**
 
-Hodnocení:
-* projekt samotný 15/15 b
-* prémiové body za rozšíření 0/5 b
-* dokumentace 4/5 b
-* obhajoba 4/5 b
+## Testing script
+[IFJcode17-toolkit](https://github.com/thejoeejoee/VUT-FIT-IFJ-2017-toolkit)
